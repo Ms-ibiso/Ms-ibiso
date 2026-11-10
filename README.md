@@ -39,7 +39,3 @@ I value clear communication, structured planning, proper documentation and pract
 
 I'm using this space to document my project work, practical exercises, learning and development in project coordination and business analysis.
 
-### Let's Connect
-
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your professional email address]
